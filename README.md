@@ -1,25 +1,6 @@
 # Hawkeye-Pi
-<head>
-<style>
-body {
-    background-color: linen;
-}
-
-h1 {
-    color: maroon;
-    margin-left: 40px;
-} 
-h2 {
-    color: green;
-    margin-left: 40px;
-
-} 
-</style>
-</head>
-A tutorial/"our experience" in preparing a rpi 3 as a AI Security Drone Brain
-
 <h1>A Prototype to Show the Capabilities of AR / AI  / IoT</h1>
-
+<h2>Our experience in preparing a rpi 3 as a AI Security Drone Brain</h2>
 <div id="introduction"></div>
 <h2>Introduction</h2>
 This prototype was started in Jan. 2018 and is as of yet on going. The next section HISTORY will serve as a tutorial or blog of how to set-up a Drone for Automated flying with fast object avoidance, AI to analyse the environment and react according to its current mission. Deliver scene related telemetry and provide a probabilistic risk/benefit analysis of objects in the scene trough either a display at the command center or via AR Glasses worn by a field operator to which the drone is assigned.
