@@ -43,6 +43,7 @@ Welcome to my world!
 
 <div id="brain"></div>
 <h2>Brain</h2>
+For our drone's Artificial Intelligence, Object Avoidance, AR automation, and much more, we chose to use the Raspberry Pi 3 B. <strong>Why?</strong>Simply put, that's how this project started. 
 
 <div id="dronesoftware"></div>
 <h2>Drone Software</h2>
